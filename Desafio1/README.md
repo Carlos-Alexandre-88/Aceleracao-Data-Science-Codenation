@@ -1,5 +1,5 @@
 # Codenation
-Desafio1 realizado no programa de aceleração em Data Science da Code Nation.
+Desafio2 realizado no programa de aceleração em Data Science da Code Nation.
 
 O desafio foi feito em Python, através de um jupter notebook.
 
